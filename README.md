@@ -15,6 +15,8 @@ A Desktop Chess game with new moves (for the bishop and the knight) and differen
 
 ## Live Demo
 
+https://github.com/user-attachments/assets/a98b495f-3fcb-45f5-af55-4398596cfdf3
+
 ## Features
 
 - **User Login**: You can login with your name and bassword, create a new account, or just play as a guest.
